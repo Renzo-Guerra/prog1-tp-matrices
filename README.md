@@ -8,6 +8,7 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
 * [Ejercicio 3](#ejercicio-3)
 * [Ejercicio 4](#ejercicio-4)
 * [Ejercicio 5](#ejercicio-5)
+* [Ejercicio 6](#ejercicio-6)
 
 ## Ejercicios
 1. ### Primera Parte
