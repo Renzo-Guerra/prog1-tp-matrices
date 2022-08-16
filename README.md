@@ -7,6 +7,7 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
 * [Ejercicio 2](#ejercicio-2)
 * [Ejercicio 3](#ejercicio-3)
 * [Ejercicio 4](#ejercicio-4)
+* [Ejercicio 5](#ejercicio-5)
 
 ## Ejercicios
 1. ### Primera Parte
@@ -33,3 +34,10 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
         posición fila, columna. Con estos datos tendrá que realizar un 
         corrimiento a derecha (se pierde el último valor en dicha fila) y 
         colocar el numero en la matriz en la posición fila, columna indicada.
+    #### Ejercicio 5
+    *** 
+        Hacer un programa que dado una matriz de enteros de tamaño 5*10 que 
+        se encuentra precargada, solicite al usuario un numero entero y 
+        elimine la primer ocurrencia de numero en la matriz (un número igual) 
+        si existe. Para ello tendrá que buscar la posición y si está, realizar 
+        un corrimiento a izquierda y no continuar buscando.
