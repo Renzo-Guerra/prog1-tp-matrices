@@ -41,3 +41,10 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
         elimine la primer ocurrencia de numero en la matriz (un número igual) 
         si existe. Para ello tendrá que buscar la posición y si está, realizar 
         un corrimiento a izquierda y no continuar buscando.
+    #### Ejercicio 6
+    *** 
+        Hacer un programa que dado una matriz de enteros de tamaño 5*10 que se 
+        encuentra precargada, solicite al usuario un numero entero y elimine 
+        todas las ocurrencia de numero en la matriz si existe. Mientras exista 
+        (en cada iteración tiene que buscar la posición fila y columna) tendrá 
+        que usar dicha posición para realizar un corrimiento a izquierda.
