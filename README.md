@@ -12,6 +12,7 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
     * [Ejercicio 6](#ejercicio-6)
 * [Segunda parte](#segunda-parte)
     * [Ejercicio 7](#ejercicio-7)
+    * [Ejercicio 8](#ejercicio-8)
     
 
 ## Ejercicios
@@ -60,3 +61,9 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
     enteros de tamaño 4*5 que se encuentra precargada, solicite al usuario 
     un numero entero y una fila, y luego inserte el numero en la matriz en 
     la fila indicada manteniendo su orden.
+#### Ejercicio 8
+*** 
+    Hacer un programa que dado una matriz ordenada creciente por filas de
+    enteros de tamaño 4*5 que se encuentra precargada, solicite al usuario un
+    numero entero y una fila, y elimine la primer ocurrencia de numero en la
+    fila indicada (un número igual) si existe.
