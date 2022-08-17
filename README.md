@@ -9,6 +9,7 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
 * [Ejercicio 4](#ejercicio-4)
 * [Ejercicio 5](#ejercicio-5)
 * [Ejercicio 6](#ejercicio-6)
+* [Ejercicio 7](#ejercicio-7)
 
 ## Ejercicios
 1. ### Primera Parte
@@ -49,3 +50,10 @@ Trabajo práctico en el cual se aprenderá a como manejar datos dentro de esta e
         todas las ocurrencia de numero en la matriz si existe. Mientras exista 
         (en cada iteración tiene que buscar la posición fila y columna) tendrá 
         que usar dicha posición para realizar un corrimiento a izquierda.
+2. ### Segunda parte
+    #### Ejercicio 7
+    *** 
+        Hacer un programa que dado una matriz ordenada creciente por filas de
+        enteros de tamaño 4*5 que se encuentra precargada, solicite al usuario 
+        un numero entero y una fila, y luego inserte el numero en la matriz en 
+        la fila indicada manteniendo su orden.
